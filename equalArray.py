@@ -13,6 +13,7 @@ class Solution:
                 elif value != freqB.get(key):
                     return False
         return True
-    print(checkEqual([2,4,4,5,1], [3,5,8,4]))
+
+
 
     
